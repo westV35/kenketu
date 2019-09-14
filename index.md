@@ -1,4 +1,4 @@
-# 献血コインHP
+# 地域通貨「献血コイン」
 
 ## 現状
 [現状について](https://westv35.github.io/kenketu/genzyou)
