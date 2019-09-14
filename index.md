@@ -10,8 +10,8 @@
 [送迎について](https://westv35.github.io/kenketu/Bus_driver)<br>
 
 ## 献血の意味
-献血をする理由
+[なぜ献血が必要なのか](https://westv35.github.io/kenketu/kenketu_igi)
 
 ##  認識の違い
-売血との違い<br>
-アンケート<br>
+[売血との違い](https://westv35.github.io/kenketu/Difference_Of_Blood_sale)<br>
+
