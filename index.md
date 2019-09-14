@@ -16,3 +16,6 @@
 ## アクセス
 [遠い地域からお越しになる人々へ](https://westv35.github.io/kenketu/courtesy%20bus)<br>
 [送迎について](https://westv35.github.io/kenketu/Bus_driver)<br>
+
+## アンケート
+[アンケート](https://westv35.github.io/kenketu/anketo)
