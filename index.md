@@ -1,13 +1,16 @@
 # 献血コインHP
+
 ## 現状
-[現状について](https://gihub.com/westV35/kenketu/genzyou)
+[現状について](https://westv35.github.io/kenketu/genzyou)
+
 ## 通貨の価値
-[利用用途](https://gihub.com/westV35/kenketu/)<br>
-[割引](https://gihub.com/westV35/kenketu/omise_waribiki)<br>
-[通貨について]()<br>
-[送迎バスについて](https://gihub.com/westV35/kenketu/courtesy%20bus)<br>
-[その他コイン贈呈者](https://gihub.com/westV35/kenketu/Bus_driver)<br>
+[通貨について](https://westv35.github.io/kenketu/)<br>
+[お店での割引](https://westv35.github.io/kenketu//omise_waribiki)<br>
+[遠い地域からお越しになる人々へ](https://westv35.github.io/kenketu/courtesy%20bus)<br>
+[送迎について](https://westv35.github.io/kenketu/Bus_driver)<br>
+
 ## 献血の意味
+献血をする理由
 
 ##  認識の違い
 売血との違い<br>
