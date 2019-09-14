@@ -1,12 +1,12 @@
 # 献血コインHP
 ## 現状
-現状について
+[現状について](https://gihub.com/westV35/kenketu/genzyou)
 ## 通貨の価値
-[利用用途]()<br>
-[使える場所]()<br>
+[利用用途](https://gihub.com/westV35/kenketu/)<br>
+[割引](https://gihub.com/westV35/kenketu/omise_waribiki)<br>
 [通貨について]()<br>
-[送迎バスについて]()<br>
-[その他コイン贈呈者]()<br>
+[送迎バスについて](https://gihub.com/westV35/kenketu/courtesy bus)<br>
+[その他コイン贈呈者](https://gihub.com/westV35/kenketu/Bus_driver)<br>
 ## 献血の意味
 
 ##  認識の違い
