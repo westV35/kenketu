@@ -4,7 +4,7 @@
 [現状について](https://westv35.github.io/kenketu/genzyou)
 
 ## 通貨の価値
-[通貨について](https://westv35.github.io/kenketu/)<br>
+[通貨について](https://westv35.github.io/kenketu/coin_details)<br>
 [お店での割引](https://westv35.github.io/kenketu//omise_waribiki)<br>
 [遠い地域からお越しになる人々へ](https://westv35.github.io/kenketu/courtesy%20bus)<br>
 [送迎について](https://westv35.github.io/kenketu/Bus_driver)<br>
