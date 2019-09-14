@@ -5,7 +5,6 @@
 
 ## 通貨の価値
 [通貨について](https://westv35.github.io/kenketu/coin_details)<br>
-[お店での割引](https://westv35.github.io/kenketu//omise_waribiki)<br>
 
 ## 献血の意味
 [なぜ献血が必要なのか](https://westv35.github.io/kenketu/kenketu_igi)
